@@ -12,6 +12,6 @@ app.use('/api', apiRouter);
 
 app.use(cors());
 
-app.listen(8080, () => {
-    console.log("Server up on port 8080");
+app.listen(3000, () => {
+    console.log("Server up on port 3000");
 });
