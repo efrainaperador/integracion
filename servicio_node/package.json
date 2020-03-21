@@ -1,0 +1,19 @@
+{
+  "name": "carpeta_ciudadana",
+  "version": "1.0.0",
+  "description": "Taller 1 - Servicio de carpeta ciudadana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "deasync": "^0.1.13",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.7"
+  }
+}
